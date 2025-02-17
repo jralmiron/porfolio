@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import Proyectos from "./Componentes/Proyectos";
 
-import "../styles/globals.css";
+
 
 const App = () => {
   useEffect(() => {
