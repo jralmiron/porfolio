@@ -24,7 +24,7 @@ const Proyectos = () => (
             className="group relative fade-in transition-all duration-300"
           >
             <a href="#" className="block">
-              <div className="aspect-video bg-secondary rounded-lg shadow-lg transition-transform group-hover:scale-125 group-active:scale-125"></div>
+              <div className="aspect-video bg-secondary rounded-lg shadow-lg transition-transform group-hover:scale-105 group-active:scale-105"></div>
               <h3 className="text-lg text-primary mt-2 text-center">
                 {proyecto.nombre}
               </h3>
