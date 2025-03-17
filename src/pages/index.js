@@ -71,7 +71,7 @@ const App = () => {
       </section>
 
       {/* Footer */}
-      <footer className="py-8 px-6 border-t border-secondary bg-white/80 backdrop-blur-sm">
+      <footer className="fixed bottom-0 left-0 w-full py-1 px-6 border-t border-secondary bg-white/80 backdrop-blur-sm">
         <div className="container mx-auto max-w-3xl flex justify-between items-center">
           <p className="text-sm text-secondary drop-shadow-lg">&copy; 2024. Todos los derechos reservados.</p>
           <img src="/logo.gif" alt="Logo" className="h-10 w-auto opacity-90 rounded-full" />
